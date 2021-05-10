@@ -1,21 +1,16 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
+widget_id: recent-post
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
 title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+active: true
 author: admin
 ---
+I am a linguist and translator, specializing in bilingualism and linguistic policy. I hold a PhD from Sorbonne Université, on code-switching among French-English and German-English bilingual speakers. I have been an Associate Professor of English Linguistics at the Université de Nantes since September 2014 and am the current head of the Bilingualism Matters Nantes branch, which strives to offer scientifically up-to-date advice on bilingualism to the general public, be they concerned parents, teachers, policy-makers or individuals.
+
+After two years at the Lycée Henri IV's prep classes, I spent four years at the École Normale Supérieure de Cachan (now Paris-Saclay), gaining a BA in linguistics with a minor in English for Specific Purposes (2005) and a Masters in Sociolinguistics (2008), and the agrégation (I ranked first nationwide, 2007). I then earned a scholarship to pursue a PhD in linguistics, during which I was awarded another scholarship to do research at Brown University for a semester. After obtaining my PhD *summa cum laude* in 2013, I was recruited at the Université de Nantes, where I now teach a variety of linguistics classes to our undergraduates and graduates.
+
+My latest book on Business English, [DSCG 6 - Anglais des affaires](https://www.amazon.fr/gp/product/B08NCYXLL5/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i0) is out now, as is the second edition of my grammar of English (in French), [L'Essentiel de la grammaire anglaise.](https://www.amazon.fr/gp/product/B08YP1Q7Y1/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i2)
+
+Since 2012, I have also been a translator, specializing in television, cinema and technical language, collaborating on over two dozen productions and making the most of recent neural machine translation software, a tool which I also work on as part of my graduate seminar on translation studies at the university.
