@@ -24,6 +24,31 @@ feature:
   icon: fa-american-sign-language-interpreting
   icon_pack: f2a3
   name: Translation
+  
+  - description: 100%
+  icon: fa-american-sign-language-interpreting
+  icon_pack: f2a3
+  name: Translation
+  
+  - description: 100%
+  icon: fa-american-sign-language-interpreting
+  icon_pack: f2a3
+  name: Research
+  
+  - description: 100%
+  icon: fa-american-sign-language-interpreting
+  icon_pack: f2a3
+  name: Public speaking
+  
+  - description: 100%
+  icon: fa-american-sign-language-interpreting
+  icon_pack: f2a3
+  name: Translation
+  
+  - description: 100%
+  icon: fa-american-sign-language-interpreting
+  icon_pack: f2a3
+  name: Writing
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
