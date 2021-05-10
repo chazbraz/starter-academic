@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Charles Brasart # Website name
-baseurl: 'brasart.netlify.app' # Website URL
+baseurl: 'brasart.netlify.app/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
